@@ -14,11 +14,8 @@
   <img align="center" alt="Gerson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gerson-Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
   <img align="center" alt="Gerson-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Gerson-Django" height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+  <img align="center" alt="Gerson-Django" height="100" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)">
   <img align="center" alt="Gerson-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  
-  <img align="right" alt="Gerson-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEsKhN3aFY33Q/profile-displayphoto-shrink_800_800/0/1550010924441?e=1650499200&v=beta&t=4qMavLmsivyo3-ENkd3kNgylD-vauYLWk4Qt_1ukeD4">
-</div>
   
   ##
 <!--
