@@ -1,4 +1,4 @@
-## Olá! Me chamo Gerson Lima, sou apaixonado por tecnologia, desenvolvedor de aplicações computacionais e estudante de Ciência da Computação!
+## Olá! Sou Gerson Lima! Apaixonado por tecnologia, desenvolvedor de aplicações computacionais e Bacharel em Ciências da Computação!
 <div align="center">
   <a href="https://github.com/gersonline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gersonline&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
